@@ -13,5 +13,5 @@ iii.Senatorial District table: Contains all the 100+ senatorial districts in Nig
 
 iv. Local Government Area table: Contains all the 760+ local governments in Nigeria with foreign keys state_id, senatorial_districs_id and representative_district_id that links each local government to the state, senatorial districts and representative districts they belong to respectively
 
-## Final note
-It took me a long time to compile this list, please leave a comment if it becomes useful to you
+## Thank you
+If you find this database interesting or useful, kindly click on the like button and follow me for more.
